@@ -1,4 +1,4 @@
-Relese on 2023.10.29
+Relese on 2023.11.25
   natureRandom(min , max) 
   => Create a number from "min" to "max".
   
