@@ -14,4 +14,4 @@ Relese on 2023.10.29
 How to use ?
   1. Download this file.
   2. Use element of "script".
-  3. Write your html-file " <script src="(Having "convenience" files directory)/convenience/convenience.js"></script> ".
+  3. Write your html-file " <script src="(Having "convenience" files directory)/convenience.js"></script> ".
