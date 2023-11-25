@@ -1,2 +1,17 @@
-# convenience
-乱数などの、JavaScriptでは少し面倒なコードを一つの関数で扱えます。
+Relese on 2023.10.29
+  natureRandom(min , max) 
+  => Create a number from "min" to "max".
+  
+  randomChoice(arrayLength) 
+  => Randomly generate index numbers for the array.
+  
+  arrayRange(init , increase , piece) 
+  => Returns an array of "pieces" with values incremented by "increase". The initial value is set as "init".
+
+  getInputById_withNum(id)
+  => Returns the HTML input element as a Type of "number".
+
+How to use ?
+  1. Download this file. And unfreeze.
+  2. Use element of "script".
+  3. Write your html-file " <script src="../convenience/convenience.js"></script> ".
