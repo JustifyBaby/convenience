@@ -12,6 +12,6 @@ Relese on 2023.10.29
   => Returns the HTML input element as a Type of "number".
 
 How to use ?
-  1. Download this file. And unfreeze.
+  1. Download this file.
   2. Use element of "script".
   3. Write your html-file " <script src="../convenience/convenience.js"></script> ".
